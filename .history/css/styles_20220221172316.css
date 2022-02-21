@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+.header {
+  font-family: "Dela Gothic One", cursive;
+  font-size: 288px;
+  color: white;
+}
+.subheader {
+  color: white;
+  font-family: "Roboto", sans-serif;
+}

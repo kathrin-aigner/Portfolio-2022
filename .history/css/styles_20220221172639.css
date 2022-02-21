@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.header {
+  text-align: center;
+  line-height: 0.8em;
+  font-family: "Dela Gothic One", cursive;
+  font-size: 288px;
+  color: white;
+}
+.subheader {
+  font-size: 32px;
+  text-align: center;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.introduction {
+  font-size: 16px;
+  text-align: center;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
