@@ -26,7 +26,7 @@ body {
 }
 .header-page {
   line-height: 1em;
-  font-size: 45px;
+  font-size: 90px;
   color: var(--primary-color);
   font-family: var(--heading-font-family);
 }
