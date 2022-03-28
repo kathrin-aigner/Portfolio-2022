@@ -93,4 +93,7 @@ a.email {
   .row {
     margin: 0;
   }
+  .project-header {
+    line-height: 1em;
+  }
 }
