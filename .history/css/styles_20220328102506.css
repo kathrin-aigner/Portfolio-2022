@@ -1,0 +1,40 @@
+:root {
+  --primary-color: white;
+  --heading-font-family: "Dela Gothic One", cursive;
+  --subheader-font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: black;
+}
+.herosection {
+  text-align: center;
+  padding: 160px 0;
+}
+.header {
+  line-height: 1em;
+  font-family: var(--heading-font-family);
+  font-size: 288px;
+  color: white;
+}
+.subheader {
+  font-size: 32px;
+  color: white;
+  font-family: var(--subheader-font-family);
+}
+.introduction {
+  font-size: 16px;
+  color: white;
+  font-family: var(--subheader-font-family);
+}
+.navbar-brand {
+  font-family: var (--heading-font-family);
+
+  letter-spacing: 0.1em;
+}
+
+.btn-primary {
+  background-color: black;
+  border: 2px solid white;
+  padding: 12px 48px;
+}
