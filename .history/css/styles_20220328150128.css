@@ -84,7 +84,3 @@ a.email {
   text-decoration: underline;
   color: var(--primary-color);
 }
-
-.row {
-  margin-top: 100px;
-}

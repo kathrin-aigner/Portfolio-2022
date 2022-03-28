@@ -8,7 +8,9 @@
 body {
   background-color: var(--secondary-color);
 }
-
+.container {
+  padding: 40px;
+}
 .herosection {
   text-align: center;
   padding: 180px 0;
@@ -36,7 +38,7 @@ body {
   font-size: 45px;
   color: var(--primary-color);
   font-family: var(--heading-font-family);
-  letter-spacing: 0.05em;
+  letter-spacing: 0.1em;
 }
 .page-section {
   font-size: 16px;
@@ -83,8 +85,4 @@ a.email {
 .email:hover {
   text-decoration: underline;
   color: var(--primary-color);
-}
-
-.row {
-  margin-top: 100px;
 }

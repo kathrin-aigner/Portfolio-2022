@@ -8,7 +8,9 @@
 body {
   background-color: var(--secondary-color);
 }
-
+.container {
+  padding: 40px;
+}
 .herosection {
   text-align: center;
   padding: 180px 0;
@@ -83,8 +85,4 @@ a.email {
 .email:hover {
   text-decoration: underline;
   color: var(--primary-color);
-}
-
-.row {
-  margin-top: 100px;
 }
