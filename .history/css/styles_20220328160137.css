@@ -93,6 +93,9 @@ a.email {
   .header {
     font-size: 100px;
   }
+  .p {
+    text-align: center;
+  }
 
   .row {
     margin: 0;
