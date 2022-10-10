@@ -94,9 +94,8 @@ p.small {
 }
 footer {
   background-color: var(--secondary-color);
-  margin:70px 0;
-  height: 100px;
-  width: 100%;
+  
+ 
 }
 footer .email-link {
   text-decoration:none;
@@ -116,9 +115,10 @@ font-size: 28px;
 }
 
 footer .social-links a:hover{
-font-size: 30px;
-transition: all 150ms ease-in-out;
+transform: scale(1.2);
+transition: transform 150ms ease-in-out;
 }
+
 
 
 
