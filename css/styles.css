@@ -7,7 +7,7 @@
 
 body {
   background-color: var(--secondary-color);
-  height: calc(100%-100px);
+  height: 100%;
   width: 100%;
 }
 
@@ -95,6 +95,8 @@ p.small {
 footer {
   background-color: var(--secondary-color);
   margin:70px 0;
+  height: 100px;
+  width: 100%;
 }
 footer .email-link {
   text-decoration:none;
